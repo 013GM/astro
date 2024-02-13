@@ -1,4 +1,7 @@
 /* nav styles */
+.body {
+  background-color: rgb(125, 159, 121);
+}
 .hamburger {
   padding-right: 20px;
   cursor: pointer;
