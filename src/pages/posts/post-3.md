@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Мой третий пост в блоге
 author: Ученик Astro
 description: "У меня был план включить депозиты, и я его придерживался!"
