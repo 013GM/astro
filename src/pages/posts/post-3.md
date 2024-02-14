@@ -7,6 +7,6 @@ image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "Превью изображение из лучей Astro."
 pubDate: 2022-07-15
-tags: ["astro", "блогинг", "обучение", "тяжко", "сообщество"]
+tags: ["astro", "blogging", "learning in public", "ыуеифслы", "community"]
 ---
 Не всегда было легко, но я наслаждаюсь работой с Astro. А [мой прошлый сайт](https://www.cryptocasinoreviews.info) я делал на визуальном редакторе!

@@ -7,6 +7,6 @@ image:
     url: "https://docs.astro.build/assets/arc.webp"
     alt: "Привью Astro"
 pubDate: 2022-07-08
-tags: ["astro", "блогинг", "обучение", "успех"]
+tags: ["astro", "blogging", "learning in public", "successes"]
 ---
 После успешной первой недели изучения Astro, я решил попробовать еще. Я создал небольшой компонент из памяти и импортировал его!
